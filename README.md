@@ -3,7 +3,7 @@ Normanity was a first year college project made as part of our 'Game design Proj
 It was the second project in this module after 'Agora'.
 
 Our team was as follows:
-- Oisin Murphy
+- [Oisin Murphy](https://github.com/Slamacy/)
 - Ben Watt
 - Keelan Murphy
 
